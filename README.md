@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
+
 
 <!--
 **akdlcnd0994/akdlcnd0994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
