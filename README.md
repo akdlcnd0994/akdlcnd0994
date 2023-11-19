@@ -1,6 +1,3 @@
-### Hi there 👋
-
-![양휘준's GitHub stats](https://github-readme-stats.vercel.app/api?username=akdlcnd0994&theme=dark&show_icons=true)
 
 <!--
 **akdlcnd0994/akdlcnd0994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
