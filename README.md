@@ -50,7 +50,7 @@
 ## Project
 
 ##### 1. 동의보감 프로젝트 Flutter ver
-- 캡스톤 및 해커톤 프로젝트
+- 캡스톤 및 해커톤 프로젝트(헬스케어 모바일 서비스 앱)
 - 개발 기간 : 2023.09 ~ 2023.11
 - 프로젝트 구분 : 팀 프로젝트
 - 프로젝트 인원 : 3명
@@ -59,8 +59,8 @@
 - 개발 환경 및 언어 : Visual Studio Code, Flutter, Dart
 - 프로젝트 주소 : https://github.com/akdlcnd0994/flutterDEBG
 
-<h5> 2. 동의보감 프로젝트 Android ver </h5>
-- 캡스톤 프로젝트
+##### 2. 동의보감 프로젝트 Android ver
+- 캡스톤 및 해커톤 프로젝트(헬스케어 모바일 서비스 앱)
 - 개발 기간 : 2023.03 ~ 2023.06
 - 프로젝트 구분 : 팀 프로젝트
 - 프로젝트 인원 : 3명
@@ -68,4 +68,69 @@
 - 상세 개발 : Oracle Cloud DB를 통해 공유DB 구축, Tomcat을 통해 웹 서버를 구축하고 java & jsp를 이용하여 android <-> DB 간 통신을 담당하는 기능 개발, App(메인, 로그인, 회원가입, ID/PW찾기, 질환백과, 자주찾는 질병정보, ChatGPT Q&A, 일일 건강 체크) 개발
 - 개발 환경 및 언어 : Android Studio, java
 - 프로젝트 주소 : https://github.com/akdlcnd0994/debg
-<h5> 3. </h5>
+
+
+##### 3. 동의보감 서버 
+- 캡스톤 프로젝트
+- 개발 기간 : 2023.03 ~ 2023.06
+- 프로젝트 구분 : 팀 프로젝트
+- 프로젝트 인원 : 2명
+- 역할 : 로그인, 회원가입, ID/PW찾기, 질환백과사전, 자주찾는 질병정보 duration, 자주찾는 질병정보 rank
+- 개발 환경 및 언어 : Eclipse, java, jsp, tomcat, Oracle Cloud
+- 프로젝트 주소 : https://github.com/akdlcnd0994/capstoneServer
+
+##### 4. 커뮤니티 관리기
+- JDBC 프로그래밍을 이용해 여러가지 기능을 수행(oracle 트리거 및 저장프로시저 또한 구현)
+- 개발 기간 : 2022.11 ~ 2022.12
+- 프로젝트 구분 : 개인 프로젝트
+- 개발 환경 및 언어 : Eclipse, java, Oracle Cloud
+- 프로젝트 주소 : https://github.com/akdlcnd0994/communityManagement
+
+##### 5. PuzzleGame
+- 대학 조별 프로젝트(이미지 퍼즐 게임)
+- 개발 기간 : 2021.10 ~ 2021.11
+- 프로젝트 구분 : 팀 프로젝트
+- 프로젝트 인원 : 4명
+- 역할 : Puzzle 게임 알고리즘 및 UI 구현
+- 개발 환경 및 언어 : Eclipse, java
+- 프로젝트 주소 : https://github.com/akdlcnd0994/PuzzleGame
+
+##### 6. RandomPuzzle
+- 랜덤 이미지 퍼즐 게임
+- 개발 기간 : 2019.04 ~ 2019.04
+- 프로젝트 구분 : 개인 프로젝트
+- 개발 환경 및 언어 : Eclipse, java
+- 프로젝트 주소 : https://github.com/akdlcnd0994/randomPuzzle-java
+
+##### 7. tcpSocket Chat
+- tcp 소켓 프로그래밍을 이용한 멀티 채팅프로그램
+- 개발 기간 : 2019.05 ~ 2019.05
+- 프로젝트 구분 : 개인 프로젝트
+- 개발 환경 및 언어 : Eclipse, java
+- 프로젝트 주소 : https://github.com/akdlcnd0994/tcpSocket-java
+
+##### 8. udpSocket Chat
+- udp 소켓 프로그래밍을 이용한 멀티 채팅프로그램
+- 개발 기간 : 2019.05 ~ 2019.05
+- 프로젝트 구분 : 개인 프로젝트
+- 개발 환경 및 언어 : Eclipse, java
+- 프로젝트 주소 : https://github.com/akdlcnd0994/udpSocket-java
+
+##### 9. udpSocket Chat
+- udp 소켓 프로그래밍을 이용한 멀티 채팅프로그램
+- 개발 기간 : 2019.05 ~ 2019.05
+- 프로젝트 구분 : 개인 프로젝트
+- 개발 환경 및 언어 : Eclipse, java
+- 프로젝트 주소 : https://github.com/akdlcnd0994/udpSocket-java
+
+
+
+
+
+
+
+
+
+
+
+
