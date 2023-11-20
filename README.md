@@ -49,7 +49,7 @@
 
 ## Project
 
-##### 1. 동의보감 프로젝트 Flutter ver
+#### 1. 동의보감 프로젝트 Flutter ver
 - 캡스톤 및 해커톤 프로젝트(헬스케어 모바일 서비스 앱)
 - 개발 기간 : 2023.09 ~ 2023.11
 - 프로젝트 구분 : 팀 프로젝트
@@ -59,7 +59,7 @@
 - 개발 환경 및 언어 : Visual Studio Code, Flutter, Dart
 - 프로젝트 주소 : https://github.com/akdlcnd0994/flutterDEBG
 
-##### 2. 동의보감 프로젝트 Android ver
+#### 2. 동의보감 프로젝트 Android ver
 - 캡스톤 및 해커톤 프로젝트(헬스케어 모바일 서비스 앱)
 - 개발 기간 : 2023.03 ~ 2023.06
 - 프로젝트 구분 : 팀 프로젝트
@@ -70,7 +70,7 @@
 - 프로젝트 주소 : https://github.com/akdlcnd0994/debg
 
 
-##### 3. 동의보감 서버 
+#### 3. 동의보감 서버 
 - 캡스톤 프로젝트
 - 개발 기간 : 2023.03 ~ 2023.06
 - 프로젝트 구분 : 팀 프로젝트
@@ -79,14 +79,14 @@
 - 개발 환경 및 언어 : Eclipse, java, jsp, tomcat, Oracle Cloud
 - 프로젝트 주소 : https://github.com/akdlcnd0994/capstoneServer
 
-##### 4. 커뮤니티 관리기
+#### 4. 커뮤니티 관리기
 - JDBC 프로그래밍을 이용해 여러가지 기능을 수행(oracle 트리거 및 저장프로시저 또한 구현)
 - 개발 기간 : 2022.11 ~ 2022.12
 - 프로젝트 구분 : 개인 프로젝트
 - 개발 환경 및 언어 : Eclipse, java, Oracle Cloud
 - 프로젝트 주소 : https://github.com/akdlcnd0994/communityManagement
 
-##### 5. PuzzleGame
+#### 5. PuzzleGame
 - 대학 조별 프로젝트(이미지 퍼즐 게임)
 - 개발 기간 : 2021.10 ~ 2021.11
 - 프로젝트 구분 : 팀 프로젝트
@@ -95,28 +95,28 @@
 - 개발 환경 및 언어 : Eclipse, java
 - 프로젝트 주소 : https://github.com/akdlcnd0994/PuzzleGame
 
-##### 6. RandomPuzzle
+#### 6. RandomPuzzle
 - 랜덤 이미지 퍼즐 게임
 - 개발 기간 : 2019.04 ~ 2019.04
 - 프로젝트 구분 : 개인 프로젝트
 - 개발 환경 및 언어 : Eclipse, java
 - 프로젝트 주소 : https://github.com/akdlcnd0994/randomPuzzle-java
 
-##### 7. tcpSocket Chat
+#### 7. tcpSocket Chat
 - tcp 소켓 프로그래밍을 이용한 멀티 채팅프로그램
 - 개발 기간 : 2019.05 ~ 2019.05
 - 프로젝트 구분 : 개인 프로젝트
 - 개발 환경 및 언어 : Eclipse, java
 - 프로젝트 주소 : https://github.com/akdlcnd0994/tcpSocket-java
 
-##### 8. udpSocket Chat
+#### 8. udpSocket Chat
 - udp 소켓 프로그래밍을 이용한 멀티 채팅프로그램
 - 개발 기간 : 2019.05 ~ 2019.05
 - 프로젝트 구분 : 개인 프로젝트
 - 개발 환경 및 언어 : Eclipse, java
 - 프로젝트 주소 : https://github.com/akdlcnd0994/udpSocket-java
 
-##### 9. udpSocket Chat
+#### 9. udpSocket Chat
 - udp 소켓 프로그래밍을 이용한 멀티 채팅프로그램
 - 개발 기간 : 2019.05 ~ 2019.05
 - 프로젝트 구분 : 개인 프로젝트
