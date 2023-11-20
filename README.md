@@ -2,7 +2,7 @@
 - 백엔드, App(Flutter, Android) 개발자를 목표로 하고 있습니다.
 - 다양하고 많은 경험을 추구하며, 빠른 적응을 위해 노력하겠습니다.
 - 포기하지 않고 오래 갈 수 있는 사람이 되겠습니다.
-
+<br><br><br>
 [<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">](https://dambi0.tistory.com/)
 
 
