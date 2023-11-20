@@ -116,21 +116,51 @@
 - 개발 환경 및 언어 : Eclipse, java
 - 프로젝트 주소 : https://github.com/akdlcnd0994/udpSocket-java
 
-#### 9. udpSocket Chat
-- udp 소켓 프로그래밍을 이용한 멀티 채팅프로그램
-- 개발 기간 : 2019.05 ~ 2019.05
+#### 9. 식단표 프로그램
+- 웹 파싱을 이용해 식단과 이미지를 불러오고 DB에 저장하는 프로그램
+- 개발 기간 : 2022.06 ~ 2022.06
 - 프로젝트 구분 : 개인 프로젝트
-- 개발 환경 및 언어 : Eclipse, java
-- 프로젝트 주소 : https://github.com/akdlcnd0994/udpSocket-java
+- 개발 환경 및 언어 : Eclipse, java, mariadb
+- 프로젝트 주소 : https://github.com/akdlcnd0994/parsing-java
 
 
+#### 10. 바닐라JS를 이용한 Todo List 사이트
+- 노마드코더 바닐라JS 챌린지 작품
+- 웹 브라우저의 local Storage를 이용해 이름과 위경도(좌표), 할일을 저장해놓는 개인 웹사이트
+- 개발 기간 : 2021.01 ~ 2021.01
+- 프로젝트 구분 : 개인 프로젝트
+- 개발 환경 및 언어 : html, css, js
+- 프로젝트 주소 : https://github.com/akdlcnd0994/VanilaJS-Website
+
+#### 11. 코코아 클론
+- 노마드코더 코코아클론 챌린지 작품
+- 웹 사이트에 제작한 카카오톡 클론 사이트
+- 개발 기간 : 2021.01 ~ 2021.01
+- 프로젝트 구분 : 개인 프로젝트
+- 개발 환경 및 언어 : html, css
+- 프로젝트 주소 : https://github.com/akdlcnd0994/kokoa-clone
+
+#### 12. html-css 
+- html, css를 이용하여 웹 디자인을 경험한 작품
+- 개발 기간 : 2021.01 ~ 2021.01
+- 프로젝트 구분 : 개인 프로젝트
+- 개발 환경 및 언어 : html, css
+- 프로젝트 주소 : https://github.com/akdlcnd0994/html-css
 
 
+## Hobby
 
 
+#### 1. 게임 마진 계산기
+- pc게임 '로스트아크'의 재화 계산기
+- 개발 기간 : 2021.09 ~ 2021.09
+- 프로젝트 구분 : 개인 프로젝트
+- 개발 환경 및 언어 : html, css, js
+- 프로젝트 주소 : https://github.com/akdlcnd0994/lostArkTree
 
-
-
-
-
-
+#### 1. 게임 레벨업 계산기
+- 모바일게임 '전자오락수호대'의 재화 계산기
+- 개발 기간 : 2021.03 ~ 2021.03
+- 프로젝트 구분 : 개인 프로젝트
+- 개발 환경 및 언어 : html, css, js
+- 프로젝트 주소 : https://github.com/akdlcnd0994/guardian
