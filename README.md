@@ -49,5 +49,23 @@
 
 ## Project
 
+<h5> 1. 동의보감 프로젝트 Flutter ver </h5>
+- 캡스톤 및 해커톤 프로젝트
+- 개발 기간 : 2023.09 ~ 2023.11
+- 프로젝트 구분 : 팀 프로젝트
+- 프로젝트 인원 : 3명
+- 역할 : Oracle Cloud DB구축, 서버 개발, 앱 개발
+- 상세 개발 : Oracle Cloud DB를 통해 공유DB 구축, Tomcat을 통해 웹 서버를 구축하고 java & jsp를 이용하여 android <-> DB 간 통신을 담당하는 기능 개발, App(질환백과, 자주찾는 질병정보) 개발
+- 개발 환경 및 언어 : Visual Studio Code, Flutter, Dart
+- 프로젝트 주소 : https://github.com/akdlcnd0994/flutterDEBG
 
-
+<h5> 2. 동의보감 프로젝트 Android ver </h5>
+- 캡스톤 프로젝트
+- 개발 기간 : 2023.03 ~ 2023.06
+- 프로젝트 구분 : 팀 프로젝트
+- 프로젝트 인원 : 3명
+- 역할 : Oracle Cloud DB구축, 서버 개발, 앱 개발
+- 상세 개발 : Oracle Cloud DB를 통해 공유DB 구축, Tomcat을 통해 웹 서버를 구축하고 java & jsp를 이용하여 android <-> DB 간 통신을 담당하는 기능 개발, App(메인, 로그인, 회원가입, ID/PW찾기, 질환백과, 자주찾는 질병정보, ChatGPT Q&A, 일일 건강 체크) 개발
+- 개발 환경 및 언어 : Android Studio, java
+- 프로젝트 주소 : https://github.com/akdlcnd0994/debg
+<h5> 3. </h5>
