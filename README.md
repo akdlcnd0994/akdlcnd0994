@@ -11,7 +11,7 @@
 - 동의대학교(컴퓨터공학과) 졸업예정 2018.03~2024.02
 
 
-<div align=left><h1>STACKS</h1></div>
+## STACKS
 
 <div align=left>
   <h3>Main</h3>
