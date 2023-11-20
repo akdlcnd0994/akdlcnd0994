@@ -3,12 +3,15 @@
 - 다양하고 많은 경험을 추구하며, 빠른 적응을 위해 노력하겠습니다.
 - 포기하지 않고 오래 갈 수 있는 사람이 되겠습니다.
 
-
 [<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">](https://dambi0.tistory.com/)
 
 
+## Education
+- 양산고등학교(인문계) 졸업 2015~2017
+- 동의대학교(컴퓨터공학과) 졸업예정 2018.03~2024.02
 
-<div align=center><h1>📚 STACKS</h1></div>
+
+<div align=left><h1>📚 STACKS</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
