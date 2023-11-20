@@ -15,7 +15,7 @@
 
 <div align=left>
   <h3>Main</h3>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
@@ -39,3 +39,15 @@
   
   <br>
 </div>
+
+## Certificate
+- 네트워크관리사 2급 2018.10
+- 정보처리기능사 2018.12
+- 정보기기운용기능사 2019.01.31
+- 컴퓨터활용능력 1급 2022.04.08
+- 정보처리기사 2023.06.09
+
+## 프로젝트
+
+
+
