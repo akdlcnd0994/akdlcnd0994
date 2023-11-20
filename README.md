@@ -11,7 +11,7 @@
 - 동의대학교(컴퓨터공학과) 졸업예정 2018.03~2024.02
 
 
-<div align=left><h1>📚 STACKS</h1></div>
+<div align=left><h1>STACKS</h1></div>
 
 <div align=left>
   <h3>Main</h3>
@@ -47,7 +47,7 @@
 - 컴퓨터활용능력 1급 2022.04.08
 - 정보처리기사 2023.06.09
 
-## 프로젝트
+## Project
 
 
 
