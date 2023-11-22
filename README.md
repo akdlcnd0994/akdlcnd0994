@@ -116,6 +116,14 @@
 - 개발 환경 및 언어 : Eclipse, java
 - 프로젝트 주소 : https://github.com/akdlcnd0994/udpSocket-java
 
+### 8. omok-java
+- java awt & socket프로그래밍을 통해 만든 pvp 오목프로그램
+- 개발 기간 : 2019.05 ~ 2019.05
+- 프로젝트 구분 : 개인 프로젝트
+- 개발 환경 및 언어 : Eclipse, java
+- 프로젝트 주소 : https://github.com/akdlcnd0994/omok-java
+
+
 ### 9. 식단표 프로그램
 - 웹 파싱을 이용해 식단과 이미지를 불러오고 DB에 저장하는 프로그램
 - 개발 기간 : 2022.06 ~ 2022.06
@@ -147,7 +155,14 @@
 - 개발 환경 및 언어 : html, css
 - 프로젝트 주소 : https://github.com/akdlcnd0994/html-css
 
+### 13. puzzle-c 
+- C언어 동적할당을 이용해 만든 숫자퍼즐
+- 개발 기간 : 2018.08 ~ 2018.08
+- 프로젝트 구분 : 개인 프로젝트
+- 개발 환경 및 언어 : C
+- 프로젝트 주소 : https://github.com/akdlcnd0994/puzzle-c
 
+  
 ## Hobby
 
 
