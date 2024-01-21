@@ -1,7 +1,7 @@
 
-<br><br><br>
-[<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">](https://dambi0.tistory.com/)
 
+[<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">](https://dambi0.tistory.com/)
+<br><br><br>
 
 ## Education
 - 양산고등학교(인문계) 졸업 2015~2017
