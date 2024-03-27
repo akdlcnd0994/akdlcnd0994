@@ -78,22 +78,13 @@
 - 프로젝트 주소 : https://github.com/akdlcnd0994/capstoneServer
 
 ### 4. 커뮤니티 관리기
-- JDBC 프로그래밍을 이용해 여러가지 기능을 수행(oracle 트리거 및 저장프로시저 또한 구현)
+- JDBC 프로그래밍을 이용해 여러가지 기능을 수행(oracle 트리거 및 저장프로시저 구현)
 - 개발 기간 : 2022.11 ~ 2022.12
 - 프로젝트 구분 : 개인 프로젝트
 - 개발 환경 및 언어 : Eclipse, java, Oracle Cloud
 - 프로젝트 주소 : https://github.com/akdlcnd0994/communityManagement
 
-### 5. PuzzleGame
-- 대학 조별 프로젝트(이미지 퍼즐 게임)
-- 개발 기간 : 2021.10 ~ 2021.11
-- 프로젝트 구분 : 팀 프로젝트
-- 프로젝트 인원 : 4명
-- 역할 : Puzzle 게임 알고리즘 및 UI 구현
-- 개발 환경 및 언어 : Eclipse, java
-- 프로젝트 주소 : https://github.com/akdlcnd0994/PuzzleGame
-
-### 6. RandomPuzzle
+### 5. RandomPuzzle
 - 랜덤 이미지 퍼즐 게임
 - 개발 기간 : 2019.04 ~ 2019.04
 - 프로젝트 구분 : 개인 프로젝트
@@ -116,7 +107,7 @@
 - 프로젝트 주소 : https://github.com/akdlcnd0994/udpSocket-java
 -->
 
-### 7. omok-java
+### 6. omok-java
 - java awt & socket프로그래밍을 통해 만든 pvp 오목프로그램
 - 개발 기간 : 2019.05 ~ 2019.05
 - 프로젝트 구분 : 개인 프로젝트
@@ -124,7 +115,7 @@
 - 프로젝트 주소 : https://github.com/akdlcnd0994/omok-java
 
 
-### 8. 식단표 프로그램
+### 7. 식단표 프로그램
 - 웹 파싱을 이용해 식단과 이미지를 불러오고 DB에 저장하는 프로그램
 - 개발 기간 : 2022.06 ~ 2022.06
 - 프로젝트 구분 : 개인 프로젝트
@@ -132,7 +123,7 @@
 - 프로젝트 주소 : https://github.com/akdlcnd0994/parsing-java
 
 
-### 9. 바닐라JS를 이용한 Todo List 사이트
+### 8. 바닐라JS를 이용한 Todo List 사이트
 - 노마드코더 바닐라JS 챌린지 작품
 - 웹 브라우저의 local Storage를 이용해 이름과 위경도(좌표), 할일을 저장해놓는 개인 웹사이트
 - 개발 기간 : 2021.01 ~ 2021.01
@@ -140,7 +131,7 @@
 - 개발 환경 및 언어 : html, css, js
 - 프로젝트 주소 : https://github.com/akdlcnd0994/VanilaJS-Website
 
-### 10. 코코아 클론
+### 9. 코코아 클론
 - 노마드코더 코코아클론 챌린지 작품
 - 웹 사이트에 제작한 카카오톡 클론 사이트
 - 개발 기간 : 2021.01 ~ 2021.01
@@ -148,21 +139,20 @@
 - 개발 환경 및 언어 : html, css
 - 프로젝트 주소 : https://github.com/akdlcnd0994/kokoa-clone
 
-### 11. html-css 
+### 10. html-css 
 - html, css를 이용하여 웹 디자인을 경험한 작품
 - 개발 기간 : 2021.01 ~ 2021.01
 - 프로젝트 구분 : 개인 프로젝트
 - 개발 환경 및 언어 : html, css
 - 프로젝트 주소 : https://github.com/akdlcnd0994/html-css
 
-### 12. puzzle-c 
-- C언어 동적할당을 이용해 만든 숫자퍼즐
+### 11. puzzle-c 
+- C언어 동적할당을 이용한 숫자퍼즐
 - 개발 기간 : 2018.08 ~ 2018.08
 - 프로젝트 구분 : 개인 프로젝트
 - 개발 환경 및 언어 : C
 - 프로젝트 주소 : https://github.com/akdlcnd0994/puzzle-c
 
-  
 ## Hobby
 
 
