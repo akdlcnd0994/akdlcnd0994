@@ -42,6 +42,14 @@
 
 ## Project
 
+### 1. 뉴스 요약 프로젝트
+- 뉴스 파싱 및 해당 데이터를 웹 서버를 거쳐 Front에 표시해주는 프로젝트
+- 개발 기간 : 2024.03 ~ 2024.03
+- 프로젝트 구분 : 개인 프로젝트
+- 개발 환경 및 언어 : Spring Boot(Intellij), Oracle Cloud, React(vsc), Python(IDLE)
+- 프로젝트 주소 : [https://github.com/akdlcnd0994/communityManagement](https://github.com/akdlcnd0994/newsSummary)
+
+
 ### 1. 동의보감 프로젝트 Flutter ver
 - 캡스톤 및 해커톤 프로젝트(헬스케어 모바일 서비스 앱)
 - 개발 기간 : 2023.09 ~ 2023.11
@@ -85,22 +93,6 @@
 - 프로젝트 구분 : 개인 프로젝트
 - 개발 환경 및 언어 : Eclipse, java
 - 프로젝트 주소 : https://github.com/akdlcnd0994/randomPuzzle-java
-
-<!--
-### 7. tcpSocket Chat
-- tcp 소켓 프로그래밍을 이용한 멀티 채팅프로그램
-- 개발 기간 : 2019.05 ~ 2019.05
-- 프로젝트 구분 : 개인 프로젝트
-- 개발 환경 및 언어 : Eclipse, java
-- 프로젝트 주소 : https://github.com/akdlcnd0994/tcpSocket-java
-
-### 8. udpSocket Chat
-- udp 소켓 프로그래밍을 이용한 멀티 채팅프로그램
-- 개발 기간 : 2019.05 ~ 2019.05
-- 프로젝트 구분 : 개인 프로젝트
-- 개발 환경 및 언어 : Eclipse, java
-- 프로젝트 주소 : https://github.com/akdlcnd0994/udpSocket-java
--->
 
 ### 6. omok-java
 - java awt & socket프로그래밍을 통해 만든 pvp 오목프로그램
