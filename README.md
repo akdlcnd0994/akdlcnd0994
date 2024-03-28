@@ -47,7 +47,7 @@
 - 개발 기간 : 2024.03 ~ 2024.03
 - 프로젝트 구분 : 개인 프로젝트
 - 개발 환경 및 언어 : Spring Boot(Intellij), Oracle Cloud, React(vsc), Python(IDLE)
-- 프로젝트 주소 : [https://github.com/akdlcnd0994/communityManagement](https://github.com/akdlcnd0994/newsSummary)
+- 프로젝트 주소 : [https://github.com/akdlcnd0994/newsSummary](https://github.com/akdlcnd0994/newsSummary)
 
 
 ### 2. 동의보감 프로젝트 Flutter ver
