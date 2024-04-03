@@ -44,7 +44,7 @@
 
 ### 1. 뉴스 요약 프로젝트
 - 뉴스 파싱 및 해당 데이터를 웹 서버를 거쳐 Front에 표시해주는 프로젝트
-- 개발 기간 : 2024.03 ~ 2024.03
+- 개발 기간 : 2024.03 ~ 2024.04
 - 프로젝트 구분 : 개인 프로젝트
 - 개발 환경 및 언어 : Spring Boot(Intellij), Oracle Cloud, React(vsc), Python(IDLE)
 - 프로젝트 주소 : [https://github.com/akdlcnd0994/newsSummary](https://github.com/akdlcnd0994/newsSummary)
